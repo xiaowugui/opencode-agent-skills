@@ -1,6 +1,0 @@
-#!/bin/bash
-# Simple greeting script to test run_skill_script
-
-echo "Hello from test-skill!"
-echo "Script executed successfully."
-echo "Current directory: $(pwd)"
